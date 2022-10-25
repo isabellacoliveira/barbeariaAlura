@@ -1,0 +1,5 @@
+Separamos para esse curso a página da Barbearia Alura. Nós vamos criar textos, imagens, blocos de conteúdo, listas de informações; além de aprender a mudar cores, espaçamento, posicionamento de elementos e tudo o mais que se pode realizar numa página web utilizando o HTML e o CSS.
+
+O curso é separado em blocos incrementais, para que você possa construir e melhorar sua página detalhe por detalhe.
+
+Nesse curso, vamos explorar as funções de cada uma das propriedades das linguagens HTML e CSS, além de como usá-las. Assim, você poderá criar uma página igual à da Barbearia Alura ou qualquer outra página web.
