@@ -1,0 +1,76 @@
+font-size: tamanho da fonte
+text-align: alinhar ao centro o conteudo
+background: cor de fundo 
+color: cor do elemento
+width: largura 
+height: altura 
+border: borda 
+padding (espaçamento interno): de todos os lados  (top, bottom, left, right)
+margin (espaçamento externo): margem para os lados que você quiser (top, bottom, left, right)
+font-style: mudar o estilo da fonte para italico 
+vertical-align: top ou bottom. alinha os itens na parte de cima ou de baixo 
+
+
+
+CSS inline. Ou seja, na linha onde temos nossa tag, adicionamos a propriedade do CSS. A segunda é incluindo a estilização em cada tag na propriedade style, no mesmo arquivo html.
+
+A terceira forma é através de um arquivo externo. 
+
+Para utilizar a estilização do arquivo style.css no index.html, precisamos incluir no head o seguinte código:
+
+<link rel="stylesheet" href="style.css">
+
+quando temos um arquivo externo de css temos que , no arquivo html , fazer uma referencia a esse arquivo
+
+Como é uma folha de estilos em cascata, a cascata vai descendo, e o que eu faço no elemento pai reflete para o elemento filho.
+Podemos representar a cor vermelha com o nome red, o hexadecimal #FF0000 e o RGB rgb(255,0,0).
+
+A mexer na apresentação dos textos
+No alinhamento deles (text-align)
+No tamanho da fonte (font-size)
+Na cor de fundo (background)
+Na cor do texto (color)
+CSS inline
+Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+A tag <style>
+Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML
+A apresentação do CSS com um arquivo externo
+Como funciona o estilo em cascata do CSS
+Como importar um arquivo externo de CSS dentro da nossa página HTML
+Como representar cores no CSS
+Através do nome da cor
+Através do seu hexadecimal
+Através do seu RGB
+
+DEVELOPER TOOLS: F12
+CLICAR NO ELEMENTO 
+CLICAR PARA INSERIR UMA NOVA LINHA
+
+Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo
+Como criar um identificador para marcar especificamente um elemento
+Como fazer referência a esse identificador no CSS
+Como adicionar uma imagem à nossa página
+Como ajustar a altura do elemento, através da propriedade height
+Como ajustar a largura do elemento, através da propriedade width
+Como ajustar o espaçamento interno do elemento, através da propriedade padding
+Como ajustar o espaçamento externo do elemento, através da propriedade margin
+Como se comporta um time de front-end hoje em dia
+
+CLASSES NO CSS: marcarmos itens, podemos marcar todos os nossos itens com a mesma classe 
+
+A class serve para replicarmos a aplicação do nosso CSS, sem precisar copiar e colá-lo em vários elementos. Aplicamos a classe para isso.
+
+A trabalhar com listas não-ordenadas e listas ordenadas
+Para cada um dos itens da lista, utilizamos a tag <li>
+O conceito das classes no CSS
+Elas servem para marcar itens, que são repetíveis
+Como referenciar uma classe no CSS
+Divisões de conteúdo, utilizando a tag <div>
+Os comportamentos inline e block
+ DIS
+
+
+
+
+
+
